@@ -1,4 +1,2 @@
-const StringToColor = () => {
-  console.log("test");
-};
-export default StringToColor;
+import ColorStore from "./ColorStore";
+export default ColorStore;
